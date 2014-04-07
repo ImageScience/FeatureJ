@@ -30,6 +30,13 @@
 		</dependency>
 	</dependencies>
 
+	<scm>
+		<connection>scm:git:git://github.com/fiji/FeatureJ</connection>
+		<developerConnection>scm:git:git@github.com:fiji/FeatureJ</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/fiji/FeatureJ</url>
+	</scm>
+
 	<repositories>
 		<!-- NB: for project parent, in case of partial checkout -->
 		<repository>

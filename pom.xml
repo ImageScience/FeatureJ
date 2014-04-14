@@ -30,6 +30,11 @@
 		</dependency>
 	</dependencies>
 
+	<ciManagement>
+		<system>Jenkins</system>
+		<url>http://jenkins.imagej.net/job/FeatureJ/</url>
+	</ciManagement>
+
 	<scm>
 		<connection>scm:git:git://github.com/fiji/FeatureJ</connection>
 		<developerConnection>scm:git:git@github.com:fiji/FeatureJ</developerConnection>

@@ -1,13 +1,11 @@
 import ij.ImagePlus;
 import ij.gui.GenericDialog;
 import ij.plugin.PlugIn;
-import ij.process.ImageProcessor;
 import imagescience.feature.Structure;
 import imagescience.image.Aspects;
-import imagescience.image.Dimensions;
 import imagescience.image.FloatImage;
 import imagescience.image.Image;
-import imagescience.utility.Progressor;
+
 import java.awt.GridBagConstraints;
 import java.awt.Insets;
 import java.awt.Panel;

@@ -1,6 +1,7 @@
 import ij.IJ;
 import ij.gui.GUI;
 import ij.plugin.PlugIn;
+
 import java.awt.Button;
 import java.awt.Dialog;
 import java.awt.FlowLayout;

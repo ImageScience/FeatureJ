@@ -3,9 +3,9 @@ import ij.gui.GenericDialog;
 import ij.plugin.PlugIn;
 import imagescience.feature.Differentiator;
 import imagescience.image.Aspects;
-import imagescience.image.Dimensions;
 import imagescience.image.FloatImage;
 import imagescience.image.Image;
+
 import java.awt.GridBagConstraints;
 import java.awt.Insets;
 import java.awt.Panel;

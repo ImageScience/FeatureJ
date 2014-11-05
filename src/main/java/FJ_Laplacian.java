@@ -7,6 +7,7 @@ import imagescience.image.FloatImage;
 import imagescience.image.Image;
 import imagescience.segment.ZeroCrosser;
 import imagescience.utility.Progressor;
+
 import java.awt.GridBagConstraints;
 import java.awt.Insets;
 import java.awt.Panel;

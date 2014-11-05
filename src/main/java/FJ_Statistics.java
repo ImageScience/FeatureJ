@@ -13,6 +13,7 @@ import imagescience.image.Image;
 import imagescience.utility.Formatter;
 import imagescience.utility.Messenger;
 import imagescience.utility.Progressor;
+
 import java.awt.Checkbox;
 import java.awt.GridBagConstraints;
 import java.awt.Insets;

@@ -1,6 +1,7 @@
 import ij.Prefs;
 import ij.gui.GenericDialog;
 import ij.plugin.PlugIn;
+
 import java.awt.GridBagConstraints;
 import java.awt.Insets;
 import java.awt.Panel;

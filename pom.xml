@@ -15,6 +15,25 @@
 	<name>plugins/FeatureJ_.jar</name>
 	<description />
 
+	<scm>
+		<connection>scm:git:git://github.com/fiji/FeatureJ</connection>
+		<developerConnection>scm:git:git@github.com:fiji/FeatureJ</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/fiji/FeatureJ</url>
+	</scm>
+	<ciManagement>
+		<system>Jenkins</system>
+		<url>http://jenkins.imagej.net/job/FeatureJ/</url>
+	</ciManagement>
+
+	<repositories>
+		<!-- NB: for project parent -->
+		<repository>
+			<id>imagej.public</id>
+			<url>http://maven.imagej.net/content/groups/public</url>
+		</repository>
+	</repositories>
+
 	<dependencies>
 		<!-- Fiji dependencies -->
 		<dependency>
@@ -28,25 +47,5 @@
 			<artifactId>ij</artifactId>
 		</dependency>
 	</dependencies>
-
-	<ciManagement>
-		<system>Jenkins</system>
-		<url>http://jenkins.imagej.net/job/FeatureJ/</url>
-	</ciManagement>
-
-	<scm>
-		<connection>scm:git:git://github.com/fiji/FeatureJ</connection>
-		<developerConnection>scm:git:git@github.com:fiji/FeatureJ</developerConnection>
-		<tag>HEAD</tag>
-		<url>https://github.com/fiji/FeatureJ</url>
-	</scm>
-
-	<repositories>
-		<!-- NB: for project parent -->
-		<repository>
-			<id>imagej.public</id>
-			<url>http://maven.imagej.net/content/groups/public</url>
-		</repository>
-	</repositories>
 
 </project>

@@ -64,7 +64,6 @@
 			<groupId>sc.fiji</groupId>
 			<artifactId>imagescience</artifactId>
 		</dependency>
-
 		<!-- ImageJ dependencies -->
 		<dependency>
 			<groupId>net.imagej</groupId>

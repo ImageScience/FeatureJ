@@ -45,6 +45,10 @@
 		<tag>HEAD</tag>
 		<url>https://github.com/fiji/FeatureJ</url>
 	</scm>
+	<issueManagement>
+		<system>GitHub Issues</system>
+		<url>https://github.com/fiji/FeatureJ/issues</url>
+	</issueManagement>
 	<ciManagement>
 		<system>Jenkins</system>
 		<url>http://jenkins.imagej.net/job/FeatureJ/</url>
